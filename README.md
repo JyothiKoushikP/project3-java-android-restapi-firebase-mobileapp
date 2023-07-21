@@ -33,7 +33,7 @@ This codebase contains the project codebase files. There are APK files included 
 
 ## Snapshots
 ![vlcsnap-2023-07-20-22h34m33s612](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/27ae4507-23d9-4a3e-99cd-6341cc403965)
-
+![vlcsnap-2023-07-20-22h34m56s937](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/432b3fcc-38a7-41a3-bbc6-82a13e1cdbf4)
 ## Contributing
 
 Any user who wish to make contributions can clone the project and make the required changes.
