@@ -32,7 +32,12 @@ UPI Sandbox Gateway
 This codebase contains the project codebase files. There are APK files included but the CloudStore policy incorporated in the backend must have expired. Nevertheless, feel free to play by adding new features.
 
 ## Snapshots
-![vlcsnap-2023-07-20-22h34m56s937](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/432b3fcc-38a7-41a3-bbc6-82a13e1cdbf4)
-## Contributing
+![vlcsnap-2023-07-20-22h34m33s612](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/f275902d-2e04-4afd-b83d-2b39062027dd)
+
+![vlcsnap-2023-07-20-22h34m56s937](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/7947ea4c-dcb2-4021-bb5a-bf992ee6c7da)
+
+
+
+
 
 Any user who wish to make contributions can clone the project and make the required changes.
