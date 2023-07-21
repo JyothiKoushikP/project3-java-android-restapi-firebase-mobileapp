@@ -33,7 +33,7 @@ This codebase contains the project codebase files. There are APK files included 
 
 ## Snapshots
 
-| Cat pics               | Dog pics               |
+| Application Launch Screen | Menu Cart List      |
 | ---------------------- | ---------------------- |
 | ![vlcsnap-2023-07-20-22h34m33s612](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/f275902d-2e04-4afd-b83d-2b39062027dd) | ![vlcsnap-2023-07-20-22h34m56s937](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/7947ea4c-dcb2-4021-bb5a-bf992ee6c7da)
  |
