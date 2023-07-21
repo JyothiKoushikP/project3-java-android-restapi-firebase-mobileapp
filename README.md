@@ -45,13 +45,3 @@ This codebase contains the project codebase files. There are APK files included 
 ## Contributions
 
 Please feel free to download the codebase and make some efficient modifications to the UI or the backend.
-
-
-
-
-
-
-
-
-
-Any user who wish to make contributions can clone the project and make the required changes.
