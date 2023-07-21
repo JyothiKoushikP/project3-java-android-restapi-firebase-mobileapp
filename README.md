@@ -1,6 +1,6 @@
-# PROJECT: Griet Canteen Android Mobile App
+# PROJECT: Griet Cafeteria Android Mobile App
 
-This android mobile application is part of a college project that has been designed for facilitating online orders and cashless delivery for the college canteen system.
+This android mobile application is part of a college project that has been designed for facilitating online orders and cashless delivery for the college cafeteria system.
 
 
 ## Programming Languages / Frameworks:
